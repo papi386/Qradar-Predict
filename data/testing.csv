@@ -1,0 +1,477 @@
+event_info,num_ips,has_multiple_ip_ranges,unique_ip_countries,critical
+OSINT Attacks on East Asia using Google Code for Command and Control by Palo Alto Unit 42,8,1,1,0.0
+OSINT -  Wrong hashes (from getmonero.org) #6151 - malicious binaries,2,1,1,0.0
+Back in Black: Unlocking a LockBit 3.0 Ransomware Attack,1,0,1,0.0
+Flash 0 Day In The Wild: Group 123 At The Controls,0,0,0,0.0
+Sandworm uses a new version of ArguePatch to attack targets in Ukraine,0,0,0,0.0
+Additional IPs for Turla/Uroburos from CIRCL Passive SSL,36,1,1,0.0
+OSINT Android.Bankosy: All ears on voice call-based 2FA by Symantec,5,1,1,0.0
+HermeticWiper | New Destructive Malware Used In Cyber Attacks on Ukraine,0,0,0,0.0
+Technical Analysis and Solution of WebLogic Server (WLS) Component Vulnerability,8,1,1,0.0
+OSINT - Zero-Day Exploitation of Unauthenticated Remote Code Execution Vulnerability in GlobalProtect (CVE-2024-3400),8,1,1,0.0
+OSINT - Ivanti Connect Secure: Journey to the core of the DSLog backdoor,1,0,1,0.0
+Alert (AA23-025A) - Protecting Against Malicious Use of Remote Monitoring and Management Software,0,0,0,0.0
+HermeticWiper,0,0,0,0.0
+PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure,2,1,1,0.0
+OSINT -  GALLIUM: Targeting global telecom,0,0,0,0.0
+Regin Scanner,0,0,0,0.0
+OSINT - Egregor: The New Ransomware Variant To Watch,2,1,1,0.0
+OSINT Fancy Bear Pens the Worst Blog Posts Ever by ThreatConnect,2,1,1,0.0
+OSINT - Godfather Trojan IOCs,3,1,1,0.0
+March 2021 Exchange Server Security Updates for older Cumulative Updates of Exchange Server,0,0,0,0.0
+X_Trader Supply Chain Attack Affects Critical Infrastructure Organizations in U.S. and Europe,0,0,0,0.0
+From Agent.BTZ to ComRAT v4,0,0,0,0.0
+Malware analysis report on SparrowDoor malware,0,0,0,0.0
+OSINT: Malicious software targeting financial sector internals,5,1,1,0.0
+Secret Malware in European Union Attack Linked to U.S. and British Intelligence article by the Intercept,0,0,0,0.0
+Banco Estado Chile REvil attack,0,0,0,0.0
+Kaseya ransomware attack - indicators and information publicly available,0,0,0,0.0
+OSINT Introducing Hi-Zor RAT by Fidelis,3,1,1,0.0
+Analysis of Storm-0558 techniques for unauthorized email access,38,1,1,0.0
+Turla: Mosquito Whitepaper,0,0,0,0.0
+Github Repo Compromise Domain MyJino RU,0,0,0,0.0
+OSINT - Hildegard: New TeamTNT Malware Targeting Kubernetes,0,0,0,0.0
+Dridex Malware - Alert (AA19-339A),13,1,1,0.0
+Conti Ransomware,5,1,1,0.0
+UEFI threats moving to the ESP: Introducing ESPecter bootkit,4,1,1,0.0
+OSINT - Sofacyâ€™s â€˜Komplexâ€™ OS X Trojan by Palo Alto networks,1,0,1,0.0
+When Cats Fly: Suspected Iranian Threat Actor UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors,0,0,0,0.0
+OINT - Hunting the LockBit Gang's Exfiltration Infrastructures,3,1,1,0.0
+Compromised host delivering malware (Mirai),0,0,0,0.0
+Stantinko investigation,4,1,1,0.0
+OSINT Expansion on Snake,6,1,1,0.0
+MISSING LINK: Tibetan Groups Targeted with Mobile Exploits,12,1,1,0.0
+Ransomware Attack Irish on Health Sector,0,0,0,0.0
+APT43: North Korean Group Uses Cybercrime to Fund Espionage Operations,0,0,0,0.0
+APT34 targets Jordan Government using new Saitama backdoor,0,0,0,0.0
+Microsoft SharePoint Server Remote Code Execution Vulnerability - CVE-2025-53770,6,1,1,0.0
+Group5: Syria and the Iranian Connection,1,0,1,0.0
+Flash CVE-2018-15982 IOCs,3,1,1,0.0
+This Is Not a Test: APT41 Initiates Global Intrusion Campaign Using Multiple Exploits,3,1,1,0.0
+"OSINT - Cutting Edge, Part 2: Investigating Ivanti Connect Secure VPN Zero-Day Exploitation",8,1,1,0.0
+Brazil malspam pushes Astaroth (Guildma) malware,0,0,0,0.0
+Obama207 QAKBOT (QBOT) infection with Cobalt Strike,4,1,1,0.0
+OSINT - Looking Into a Cyber-Attack Facilitator in the Netherlands by Trend Micro,0,0,0,0.0
+Prometei botnet improves modules and exhibits new capabilities in recent updates,10,1,1,0.0
+Emotet in Depth TTP 10-07-19,0,0,0,0.0
+OSINT - Houdiniâ€™s Magic Reappearance,3,1,1,0.0
+Suspected Russian Activity Targeting Government and Business Entities Around the Globe,17,1,1,0.0
+Windows Background Intelligent Transfer Service (BITS) used to download malware,0,0,0,0.0
+IcedID infection from fake Microsoft Teams page,0,0,0,0.0
+Expansion based on shared nameserver with a lot of Sofacy domains,0,0,0,0.0
+"OSINT  - Oops, they did it again: APT Targets Russia and Belarus with ZeroT and PlugX",0,0,0,0.0
+Scraper: Malicious WhatsApp mod distributed through legitimate apps,0,0,0,0.0
+OSINT Revealing the Cyber-Kraken (Threat Group 3390 / Emissary Panda) by SecureWorks,25,1,1,0.0
+OSINT APT Volatile Cedar APT yara rules by Florian Roth,0,0,0,0.0
+OSINT EFF Report Operation Manul,19,1,1,0.0
+MirageFox: APT15 Resurfaces With New Tools Based On Old Ones,0,0,0,0.0
+"OSINT ScanBox framework â€“ whoâ€™s affected, and whoâ€™s using it?  by PWC",30,1,1,0.0
+Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled,8,1,1,0.0
+APT Actors Exploiting Fortinet Vulnerabilities to Gain Access for Malicious Activity,0,0,0,0.0
+Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant,0,0,0,0.0
+OSINT Operation Double Tap from FireEye,5,1,1,0.0
+TA551 (SHATHAK) Word documents with macros pushing ICEDID malware,7,1,1,0.0
+Gaza Cybergang | Unified Front Targeting Hamas Opposition,0,0,0,0.0
+OSINT Democracy in Hong Kong Under Attack blog post from Volexity (Steven Adair),19,1,1,0.0
+OSINT - Reservations Requested: TA558 Targets Hospitality and Travel,1,0,1,0.0
+Down but Not Out: A Look Into Recent Exploit Kit Activities,10,1,1,0.0
+OSINT - Malware is being signed with multiple digital certificates to evade detection,1,0,1,0.0
+Oracle PoS hack,62,1,1,0.0
+A Detailed Examination of the Siesta Campaign,2,1,1,0.0
+Gamaredon (Ab)uses Telegram to Target Ukrainian Organizations,26,1,1,0.0
+Updating: Tracking Powershell Empire C2 via Urlscan,11,1,1,0.0
+"Scraper: DeftTorero: tactics, techniques and procedures of intrusions revealed",1,0,1,0.0
+OSINT Dust Storm Campaign Targeting Japanese Critical Infrastructure,47,1,1,0.0
+Beyond the Surface: the evolution and expansion of the SideWinder APT group,0,0,0,0.0
+Expansion on MWI by security researcher,0,0,0,0.0
+OSINT - Patchwork cyberespionage group expands targets from governments to wide range of industries,2,1,1,0.0
+Grand Soft EK domains,0,0,0,0.0
+"#TrickBot banker updates to group_tag """"tt0002"" version ""1000206""",0,0,0,0.0
+Russian threat group COLDRIVER expands its targeting of Western officials to include the use of malware,0,0,0,0.0
+OSINT Darkhotelâ€™s attacks in 2015 by Kaspersky,0,0,0,0.0
+OSINT - Sednit update: Analysis of Zebrocy,0,0,0,0.0
+Void Rabisu’s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors’ Goals,2,1,1,0.0
+Windows version of the Bibi Wiper by BiBiGun,0,0,0,0.0
+OSINT Morpho: Profiting from high-level corporate attacks by Symantec,4,1,1,0.0
+OSINT APT28: A Window into Russiaâ€™s Cyber Espionage Operations? blog post by FireEye,1,0,1,0.0
+10 Things I Hate About Attribution: RomCom vs. TransferLoader,0,0,0,0.0
+Untangling KNOTWEED: European private-sector offensive actor using 0-day exploits,0,0,0,0.0
+OSINT -  Royal APT - APT15 - Related Information from NCC Group Cyber Defense Operations Research,0,0,0,0.0
+OSINT - Sofacy Attacks Multiple Government Entities,0,0,0,0.0
+Starry Addax targets human rights defenders in North Africa with new malware,0,0,0,0.0
+OSINT Evil Bunny: Suspect #4,32,1,1,0.0
+OSINT - Mofang: A politically motivated information stealing adversary,1,0,1,0.0
+OSINT H-Worm IOCs from WooYun,0,0,0,0.0
+Industroyer: Biggest threat to industrial control systems since Stuxnet,5,1,1,0.0
+OSINT - Introducing BIOLOAD: FIN7 BOOSTWRITEâ€™s Lost Twin,0,0,0,0.0
+"OSINT -  HackingTeam back for your Androids, now extra insecure!",2,1,1,0.0
+njRAT Spreading Through Active Pastebin Command and Control Tunnel,0,0,0,0.0
+OSINT DarkHotel samples at WooYun,0,0,0,0.0
+Barracuda Email Security Gateway Appliance (ESG) Vulnerability,11,1,1,0.0
+"SAMSAM: THE DOCTOR WILL SEE YOU, AFTER HE PAYS THE RANSOM",0,0,0,0.0
+Ransomware wave RansomBoggs in Ukraine,0,0,0,0.0
+Bizarro banking Trojan expands its attacks to Europe,0,0,0,0.0
+TinyNuke Banking Malware Targets French Entities,0,0,0,0.0
+"Iran: State-Backed Hacking of Activists, Journalists, Politicians",0,0,0,0.0
+CVE-2025-0411: Ukrainian Organizations Targeted in Zero-Day Campaign and Homoglyph Attacks,1,0,1,0.0
+Shamoon potential samples,0,0,0,0.0
+An Analysis of Infrastructure linked to the Hagga Threat Actor,16,1,1,0.0
+"OSINT - The Connections Between MiniDuke, CosmicDuke and OnionDuke",0,0,0,0.0
+OSINT Cmstar Downloader: Lurid and Enfalâ€™s New Cousin by Palo Alto Unit 42,0,0,0,0.0
+OSINT - ShadowPad in corporate networks,0,0,0,0.0
+From Albania to the Middle East: The Scarred Manticore is Listening,0,0,0,0.0
+OSINT - New Carbanak / Anunak Attack Methodology,10,1,1,0.0
+Earth Preta Campaign Uses DOPLUGS to Target Asia,18,1,1,0.0
+Turla digging using TotalHash,0,0,0,0.0
+OSINT Phantom of the Opaera: New KASPERAGENT Malware Campaign by ThreatConnect,2,1,1,0.0
+OSINT - Packrat: Seven Years of a South American Threat Actor,2,1,1,0.0
+OSINT - CVE-2015-2545: overview of current threats,6,1,1,0.0
+OSINT - Attacks on industrial enterprises using RMS and TeamViewer,8,1,1,0.0
+ModifiedElephant APT and a Decade of Fabricating Evidence,0,0,0,0.0
+A hack in hand is worth two in the bush,0,0,0,0.0
+OSINT Adobe Zero-day Used in LadyBoyle Attack blog post by Symantec,0,0,0,0.0
+"AutoIT-compiled Negasteal/Agent Tesla, Ave Maria Delivered via Malspam",0,0,0,0.0
+A Dive into Earth Baku’s Latest Campaign,3,1,1,0.0
+New Malware â€˜Roverâ€™ Targets Indian Ambassador to Afghanistan,1,0,1,0.0
+OSINT RTF Exploit Installs Italian RAT: uWarrior by Palo Alto,2,1,1,0.0
+Microsoft Office Vulnerabilities Used to Distribute Zyklon Malware in Recent Campaign,10,1,1,0.0
+"Malware Discovered in Popular NPM Package, ua-parser-js",0,0,0,0.0
+OSINT -  US CERT TA17-293A report - renamed PsExec execution (sigma/SIEM ruleset),0,0,0,0.0
+Patchwork â€“ Targeted Attack (APT),56,1,1,0.0
+OSINT - Kobalos – A complex Linux threat to high performance computing infrastructure,0,0,0,0.0
+"Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques",9,1,1,0.0
+Security Brief: TA450 Uses Embedded Links in PDF Attachments in Latest Campaign,0,0,0,0.0
+APT Group Chimera - APT Operation Skeleton key Targets Taiwan Semiconductor Vendors,0,0,0,0.0
+Eight Arms to Hold You: The Cuttlefish Malware,1,0,1,0.0
+Expansion on OSINT Korplug military targeted attacks: Afghanistan & Tajikistan blog post from ESET by using whois registrant,0,0,0,0.0
+Minas – on the way to complexity,0,0,0,0.0
+Mustang Panda Uses the Russian-Ukrainian War to Attack Europe and Asia Pacific Targets,11,1,1,0.0
+OSINT - Cyber Heist Attribution,0,0,0,0.0
+OSINT Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites by Citizen Labs,4,1,1,0.0
+CSSF - Warnings,0,0,0,0.0
+OSINT - Shifting Tactics: Tracking changes in years-long espionage campaign against Tibetans,0,0,0,0.0
+OSINT - Keep Calm and (Donâ€™t) Enable Macros: A New Threat Actor Targets UAE Dissidents,2,1,1,0.0
+Malware with legit company names in metadata,3,1,1,0.0
+Turkish espionage campaigns in the Netherlands,5,1,1,0.0
+Seedworm: Iranian Hackers Target Telecoms Orgs in North and East Africa,7,1,1,0.0
+OSINT - A Mole exposing itself to sunlight Snake: Coming soon in Mac OS X flavour,1,0,1,0.0
+ApateWeb: An Evasive Large-Scale Scareware and PUP Delivery Campaign,10,1,1,0.0
+Scraper: Breaking Down the China Chopper Web Shell - Part I,0,0,0,0.0
+New North-Korean based backdoor packs a punch,1,0,1,0.0
+Scraper: LV Ransomware Exploits ProxyShell in Attack on a Jordan-based Company,8,1,1,0.0
+OSINT Operation Molerats: Middle East Cyber Attacks Using Poison Ivy by Fire Eye,6,1,1,0.0
+Expansion based on pDNS + whois from OSINT Roaming tiger by Anton Cherepanov from ESET,21,1,1,0.0
+EU 31st session of the Commission on Crime Prevention and Criminal Justice United Nations on Drugs and Crime themed malware,3,0,1,0.0
+Blog Post: EMOTET INFECTION WITH ICEDID,1,0,1,0.0
+The Golden Tax Department and the Emergence of GoldenSpy Malware,0,0,0,0.0
+On-memory post exploit payloads from encoded binary,1,0,1,0.0
+OSINT - Turla APT actor refreshes KopiLuwak JavaScript backdoor for use in G20-themed attack,0,0,0,0.0
+OSINT - Operation Ke3chang Resurfaces With New TidePool Malware,0,0,0,0.0
+"Blind Eagle Deploys Fake UUE Files and Fsociety to Target Colombia's Judiciary, Financial, Public, and Law Enforcement Entities",3,1,1,0.0
+"OSINT - NetTraveler APT Targets Russian, European Interests",3,1,1,0.0
+The SideWalk may be as dangerous as the CROSSWALK,3,1,1,0.0
+Cutting Edge: Suspected APT Targets Ivanti Connect Secure VPN in New Zero-Day Exploitation,0,0,0,0.0
+ServHelper and FlawedGrace - New malware introduced by TA505,1,0,1,0.0
+AZORult spreads as a fake ProtonVPN installer,0,0,0,0.0
+"Divergent: ""Fileless"" NodeJS Malware Burrows Deep Within the Host",36,1,1,0.0
+Analysis and Detection of CLOUD#REVERSER: An Attack Involving Threat Actors Compromising Systems Using A Sophisticated Cloud-Based Malware,1,0,1,0.0
+OSINT - Linux malware found on a single compromised Linux host,0,0,0,0.0
+MuddyWater replaces Atera by custom MuddyRot implant in a recent campaign,2,1,1,0.0
+UAC-0063: Cyber Espionage Operation Expanding from Central Asia,0,0,0,0.0
+powerpool-malware-exploits-zero-day-vulnerability,1,0,1,0.0
+Operation Comando: How to Run a Cheap and Effective Credit Card Business,0,0,0,0.0
+CYBERCOM_Malware_Alert -  MuddyWater has been seen using a variety of techniques to maintain access to victim networks.,0,0,0,0.0
+OSINT - Analyzing Operation GhostSecret: Attack Seeks to Steal Data Worldwide,13,1,1,0.0
+Vermilion Strike: Linux and Windows Re-implementation of Cobalt Strike,1,0,1,0.0
+A Look Into Fysbis: Sofacyâ€™s Linux Backdoor,1,0,1,0.0
+ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins,0,0,0,0.0
+2019-01-22: Emotet->TrickBot,0,0,0,0.0
+Unwrapping Ursnifs Gifts - The DFIR Report,69,1,1,0.0
+OSINT In Pursuit of Optical Fibers and Troop Intel: Targeted Attack Distributes PlugX in Russia by ProofPoint,2,1,1,0.0
+New Iranian APT data extraction tool,2,1,1,0.0
+OSINT - STUXSHOP The Oldest Stuxnet Component Dials Up,0,0,0,0.0
+Phorpiex - Downloader Delivering Ransomware,1,0,1,0.0
+Gamaredon APT targets Ukrainian government agencies in new campaign,1,0,1,0.0
+OSINT New activity of the Blue Termite APT by AlienVault,0,0,0,0.0
+OSINT - StrongPity2 spyware replaces FinFisher in MitM campaign â€“ ISP involved?,0,0,0,0.0
+KuGou trojan backdoor campaign aim RDP on HFS panels,3,1,1,0.0
+OSINT - IronNetInjector: Turla’s New Malware Loading Tool,0,0,0,0.0
+OSINT APT Bestia used in APT attacks on Polish Government,0,0,0,0.0
+"M2M -  Locky 2017-11-06 : Affid=3, "".asasin"" : ""E3S1234567890123 Payment advice"" - ""advice_123456_20171106.doc""",14,1,1,1.0
+Dridex 2017-04-11 : botnet 7200/7500 campaigns,19,1,1,1.0
+OSINT - New Arena Crysis Ransomware Variant Released,0,0,0,1.0
+OSINT - SURGE IN SPAM CAMPAIGN DELIVERING LOCKY RANSOMWARE DOWNLOADERS,4,1,1,1.0
+Keylogger info via Twitter Feed,1,0,1,1.0
+OSINT - Apache SOLR: the new target for cryptominers,0,0,0,1.0
+PowerSniff Malware Used in Macro-based Attacks,0,0,0,1.0
+OSINT - Kernel Mode Malicious Loader,1,0,1,1.0
+OSINT - Dogspectus Ransomware Analysis,0,0,0,1.0
+Korea In The Crosshairs,0,0,0,1.0
+OSINT - EngineBox Malware Supports 10+ Brazilian Banks,1,0,1,1.0
+OSINT - Exploring CVE-2015-2545 and its users,6,1,1,1.0
+OSINT - Big Game Hunting: The Evolution of INDRIK SPIDER From Dridex Wire Fraud to BitPaymer Targeted Ransomware,0,0,0,1.0
+OSINT - Apocalypse: Ransomware which targets companies through insecure RDP,0,0,0,1.0
+MAR-10478915-1.v1 Citrix Bleed,0,0,0,1.0
+OSINT - Off-the-shelf RATs Targeting Pakistan,0,0,0,1.0
+OSINT - From RTF to Cobalt Strike passing via Flash,1,0,1,1.0
+OSINT - Trochilus and New MoonWind RATs Used In Attack Against Thai Organizations,1,0,1,1.0
+Pandora analysis (NEW ORDER LIST GREEN VALLEY CORP.xlam),0,0,0,1.0
+OSINT - Cracking Orcus RAT,0,0,0,1.0
+Malspam 2016-06-29 (campaign subject: 'new invoice'),41,1,1,1.0
+C2-JARM - A list of JARM hashes for different ssl implementations used by some C2 tools.,0,0,0,1.0
+OSINT - Mole66 Cryptomix Ransomware Variant Released,0,0,0,1.0
+"Malspam 2016-09-12 (.js in .zip) - campaign: ""Budget report""",1,0,1,1.0
+OSINT - Rurktar - Spyware under Construction,0,0,0,1.0
+"Malspam 2016-09-06 (.wsf in .zip) - campaign: ""Invoice INV[x]""",10,1,1,1.0
+SectorJ04 Groupâ€™s Increased Activity in 2019,0,0,0,1.0
+OSINT - Second Wave of Shamoon 2 Attacks Identified,0,0,0,1.0
+Backdoor.Cadelspy and Backdoor.Remexi - Symantec,0,0,0,1.0
+OSINT -  Familiar Feeling A Malware Campaign Targeting the Tibetan Diaspora Resurfaces,16,1,1,1.0
+Macro Malware Associated With Dridex Finds New Ways to Hide,0,0,0,1.0
+"Astaroth, Mekotio & Ousaban abusing Google Cloud Run in LATAM-focused malware campaigns",1,0,1,1.0
+Malicious Inauthentic Falcon Crash Reporter Installer Distributed to German Entity via Spearphishing Website,1,0,1,1.0
+OSINT - Update on the Fancy Bear Android malware (poprd30.apk),0,0,0,1.0
+The (D)Evolution of Pikabot,13,1,1,1.0
+An Analysis of Linux.Ngioweb Botnet,26,1,1,1.0
+Malspam 2017-10-03,4,1,1,1.0
+OSINT - The Blockbuster Sequel,17,1,1,1.0
+"M2M -  Locky 2017-10-05 : Affid=3, offline, "".ykcol"" : ""Invoice INV000123"" - ""Invoice INV000123.7z""",34,1,1,1.0
+OSINT - Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society,3,1,1,1.0
+OSINT - Major Payment Disruption: Ransomware Strikes Indian Banking Infrastructure,0,0,0,1.0
+OSINT - Analysis of Malware in Brazilian Bank Attack Reveals Prolonged Campaign,9,1,1,1.0
+Malicious Emails Outlook Themed,0,0,0,1.0
+OSINT - WAP-billing Trojan-Clickers on rise,0,0,0,1.0
+Dharma Ransomware Event,1,0,1,1.0
+OSINT (VT Collection) - GodFather Malware Returns Targeting Banking Users,0,0,0,1.0
+"OSINT - Return of Not Petya as Bad Rabbit Diskcoder, yes those two are the same!",1,0,1,1.0
+OSINT - Operation Dragonfly Analysis Suggests Links to Earlier Attacks,0,0,0,1.0
+"OSINT - MM Core In-Memory Backdoor Returns as ""BigBoss"" and ""SillyGoose""",0,0,0,1.0
+OSINT - Targeted Threat Leads to Keylogger via Fake Silverlight Update,0,0,0,1.0
+"Malspam 2016-09-08 (.wsf in .zip) - campaign: ""New voice mail message from""",20,1,1,1.0
+Leafminer: New Espionage Campaigns Targeting Middle Eastern Regions,0,0,0,1.0
+"OSINT - New Poison Ivy Activity Targeting Myanmar, Asian Countries",0,0,0,1.0
+OSINT - Making a Ransomware Payment? It May Now Violate U.S. Sanctions,0,0,0,1.0
+OSINT - Demystifying targeted malware used against Polish banks,0,0,0,1.0
+OSINT -  Clickjacking Campaign Plays on European Cookie Law,0,0,0,1.0
+OSINT - New Linux Malware Exploits CGI Vulnerability,3,1,1,1.0
+Star Trek Themed Kirk Ransomware Brings us Monero and a Spock Decryptor!,0,0,0,1.0
+OilRig Malware Campaign Updates Toolset and Expands Targets,0,0,0,1.0
+OSINT - Setting Sights On Retail: AbaddonPOS Now Targeting Specific POS Software,2,1,1,1.0
+"Revenge Ransomware, a CryptoMix Variant, Being Distributed by RIG Exploit Kit",1,0,1,1.0
+Targeted phishing - PDF documents / phishkit,0,0,0,1.0
+OSINT - Gazing at Gazer,0,0,0,1.0
+"M2M -  Locky 2017-09-20 : Affid=3, offline, "".ykcol"" : ""Status of invoice A2171234-56"" - ""A2171234-56.rar""",9,1,1,1.0
+OSINT - Saga 2.0 (Sage 2.0) comes with IP Generation Algorithm (IPGA),0,0,0,1.0
+OSINT - New self-protecting USB trojan able to avoid detection,0,0,0,1.0
+OSINT - The Emotet Banking Trojan: Analysis of Dropped Malware Morphing at Scale,0,0,0,1.0
+M2M -  phishing URLs,10,1,1,1.0
+"OSINT - â€œOperation C-Majorâ€ Actors Also Used Android, BlackBerry Mobile Spyware Against Targets",0,0,0,1.0
+OSINT - Malicious iBanking application with new uninstall countermeasures,0,0,0,1.0
+Malspam 2016-06-28 (Locky campaign subject: 'Updated'),31,1,3,1.0
+"M2M -  Locky 2017-09-27 : Affid=3, offline, "".ykcol"" : ""Scanned image from MX-2600N"" - ""20170927_123456.7z""",14,1,1,1.0
+OSINT - ATMZombie: banking trojan in Israeli waters,4,1,1,1.0
+"Malspam 2016-09-16 (.wsf in .zip) - campaign: ""(SCAN|FAX|DOC|IMG)_{integer}""",28,1,1,1.0
+OSINT - CVE-2017-0199: In the Wild Attacks Leveraging HTA Handler,2,1,1,1.0
+OSINT - CIG Circular 66  â€“ FASTCash  ATM Cash  Out Campaign,4,1,1,1.0
+OSINT - Trojan downloader found on Google Play by @Maler360,0,0,0,1.0
+"AA23-335A: IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple Sectors, Including U.S. Water and Wastewater Systems Facilities",2,1,1,1.0
+OSINT - New KeyPass Ransomware Campaign Underway,0,0,0,1.0
+"Malspam 2016-09-09 (.hta in .dzip) - campaign: ""Order confirmation""",17,1,1,1.0
+OSINT -  Roaming Mantis uses DNS hijacking to infect Android smartphones,9,1,1,1.0
+OSINT - Fileless attacks against enterprise networks,0,0,0,1.0
+German language malspam pushes yet another wave of Trickbot,9,1,1,1.0
+OSINT - Matrix Ransomware Spreads to Other PCs Using Malicious Shortcuts,0,0,0,1.0
+Fake amf-fr.org website delivering malicious Word document and binaries,1,0,1,1.0
+OSINT - Dvmap: the first Android malware with code injection,0,0,0,1.0
+"Malspam 2016-08-31 (.hta in .zip) - campaign: ""FW: [Scan]""",23,1,1,1.0
+OSINT - Sofacy Uses DealersChoice to Target European Government Agency,0,0,0,1.0
+OSINT - Gorilla DDoS,15,1,1,1.0
+Evil: A poor manâ€™s ransomware in JavaScript,0,0,0,1.0
+Kegotip downloader,1,0,1,1.0
+OSINT - First Node.js-based Ransomware : Nodera,0,0,0,1.0
+OSINT - Trojan.Mirai.1 for Microsoft Windows,0,0,0,1.0
+Soft Cell case - Related indicators from correlations,6,1,1,1.0
+OSINT - Dark Caracal Cyber-espionage at a Global Scale,11,1,1,1.0
+OSINT - MULTIGRAIN â€“ Point of Sale Attackers Make an Unhealthy Addition to the Pantry,0,0,0,1.0
+Financial - socgen-compliance.com fake website delivering malicious documents,3,1,1,1.0
+OSINT - Turbo Twist: Two 64-bit Derusbi Strains Converge,0,0,0,1.0
+OSINT  - New Mac backdoor using antiquated code,1,0,1,1.0
+COBALT Logical attacks on ATMs,6,1,1,1.0
+Malspam 2017-09-08 - 'Microsoft Store E-invoice for your order #',3,1,1,1.0
+Malspam 2016-07-13 .wsf campaign,5,1,1,1.0
+OSINT - New Backup Cryptomix Ransomware Variant Actively Infecting Users,0,0,0,1.0
+Malicious Chrome browser extensions injecting code,23,0,1,1.0
+Malspam week 44 (2016-10-24) - Locky ('Sebek'),1,0,1,1.0
+OSINT -  Operation ShadowHammer,1,0,1,1.0
+Dridex and Locky Return Via PDF Attachments in Latest Campaigns,8,1,1,1.0
+OSINT - Android Malware Appears Linked to Lazarus Cybercrime Group,12,1,1,1.0
+"The Kelihos & Severa; the ""All Out"" version",10,1,1,1.0
+"M2M -  Locky Affid=3, "".asasin"" 2017-11-01 : ""Emailing: AZ123 - 01.11.2017"" - ""AZ123 - 01.11.2017.doc""",12,1,1,1.0
+"M2M - ""..doc"" 2017-11-30 : ""FL-123456 11.30.2017.7z""",10,1,1,1.0
+Dharma Ransomware sample,0,0,0,1.0
+OSINT - Satana ransomware â€“ threat coming soon?,0,0,0,1.0
+OSINT - The Curious Case of an Unknown Trojan Targeting German-Speaking Users,0,0,0,1.0
+"Malspam (2016-04-28) - #3 (unknown payload, not accessible)",0,0,0,1.0
+"(fake? exercise) Phishing targeting different organisation in Benelux (""cybersecurity"" company Pistachio)",1,0,1,1.0
+LOWBOW - FireEye,1,0,1,1.0
+"OSINT Fidelis Threat Advisory #1014 ""Bots, Machines, and the Matrix""",14,1,1,1.0
+OSINT - PUBG Ransomware Decrypts Your Files If You Play PlayerUnknown's Battlegrounds,0,0,0,1.0
+OSINT - A tale of two zero-days,0,0,0,1.0
+OSINT - Halloware Ransomware on Sale on the Dark Web for Only $40,0,0,0,1.0
+"OSINT - Malicious Chrome Extensions Stealing Roblox In-Game Currency, Sending Cookies via Discord",0,0,0,1.0
+Malware â€œTSCookieâ€,3,1,1,1.0
+Malspam 2016-07-15 .zip/.jse,2,1,1,1.0
+Hawkeye Keylogger - Reborn v8: An in-depth campaign analysis,0,0,0,1.0
+Spam 2016-10-14 (mule acquisition) - probably related to Locky resources,3,1,1,1.0
+Spear Phishing Attack Hits Industrial Companies,3,1,1,1.0
+OSINT - New Bomb Threat Email Scam Campaign Demanding $20K in Bitcoin,0,0,0,1.0
+"M2M -  Locky Affid=3/Trickbot ""mac1"" 2017-09-29 : ""Voice Message from ..."" - ""/voicemsg.html"" links",33,1,1,1.0
+OSINT OrcaRAT - A whale of a tale blog post by PWC,21,1,1,1.0
+Seamless Campaign using Rig Exploit Kit to send Ramnit Trojan,3,1,1,1.0
+SamSam Ransomware - Alert (AA18-337A),0,0,0,1.0
+"Information stealer malware via fake malicious document as ""University of Luxembourg""",2,1,1,1.0
+OSINT Exploring .XYZ (Another Shady TLD Report) by Blue Coat,4,0,1,1.0
+"M2M -  Locky 2017-10-04 : Affid=3, offline, "".ykcol"" : ""Copy of invoice A1234567890..."" - ""InvoiceA1234567890.7z""",11,1,1,1.0
+"M2M -  Locky 2017-10-09 : Affid=3, offline, "".ykcol"" : ""Invoice IP1234567"" - ""Invoice-IP1234567.7z""",13,1,1,1.0
+OSINT -  RAT Gone Rogue: Meet ARS VBS Loader,3,1,1,1.0
+Malspam pushes Emotet with Qakbot as the follow-up malware,0,0,0,1.0
+OSINT - Veil-Framework Infects Victims of Targeted OWA Phishing Attack,0,0,0,1.0
+OSINT - Threat Actor TA505 Targets Financial Enterprises Using LOLBins and a New Backdoor Malware,2,1,1,1.0
+Malicious comment on GitHub pointing to malware,0,0,0,1.0
+DHL-Themed malspam with links to .js file downloader,6,1,1,1.0
+OSINT - â€œCyber Conflictâ€ Decoy Document Used In Real Cyber Conflict,0,0,0,1.0
+C2 With It All: From Ransomware To Carding,2,1,1,1.0
+Butterfly/WildNeutron - Symantec / Kaspersky,4,1,1,1.0
+"Malspam 2016-09-06 (.js in .zip) - campaign: ""Suspected Purchases""",3,1,1,1.0
+OSINT  Evilgrab Delivered by Watering Hole Attack on President of Myanmarâ€™s Website by Palo Alto Unit 42,6,1,1,1.0
+New KONNI Campaign References North Korean Missile Capabilities,0,0,0,1.0
+"M2M -  Trickbot 2017-06-14 : mac1 : ""Emailing: 123456789"" - ""123456789.PDF""",61,1,1,1.0
+"""Lebanese Cedar"" APT Global Lebanese Espionage Campaign Leveraging Web Servers",5,1,3,1.0
+"M2M - ""..doc"" 2017-12-04 : ""Emailing: 1234567"" - ""1234567.7z""",9,1,1,1.0
+OSINT - Teaching an old RAT new tricks,0,0,0,1.0
+OSINT - Strider: Cyberespionage group turns eye of Sauron on targets,0,0,0,1.0
+OSINT - APT28 malicious NATO document,0,0,0,1.0
+OSINT - AceDeceiver: First iOS Trojan Exploiting Apple DRM Design Flaws to Infect Any iOS Device,0,0,0,1.0
+"OSINT -  Hancitor and Ruckguv Reappear, Updated and With Vawtrak On Deck",0,0,0,1.0
+OSINT -  New Malware with Ties to SunOrcal Discovered,2,1,1,1.0
+OSINT - Locky Ransomware Domains â€“ Followup Analysis Uncovers 130 New Indicators,10,1,1,1.0
+OSINT - FINDING THE RATâ€™S NEST,2,1,1,1.0
+"Malspam 2016-08-31 (.wsf in .zip) - campaign: ""Image|Picture|Photos|Photo|Document""",16,1,1,1.0
+OSINT - The Elderwood Project,1,0,1,1.0
+XMRig and OPSEC Fail,1,0,1,1.0
+"M2M -  Locky 2017-09-28 : Affid=3, offline, "".ykcol"" : ""Scan Data"" - ""Scan_54321.7z""",18,1,1,1.0
+"OSINT - PokÃ©mon-themed Umbreon Linux Rootkit Hits x86, ARM Systems",0,0,0,1.0
+OSINT -  Fareit Spam: Rocking Out to a New File Type,1,0,1,1.0
+OSINT - Tainted Leaks: Disinformation and Phishing With a Russian Nexus,3,1,1,1.0
+China Peace Palace attacks - ThreatConnect,0,0,0,1.0
+OSINT - The #BronzeUnion/#LuckyMouse/#APT27 infection checker,0,0,0,1.0
+"M2M -  Locky 2017-11-07 : Affid=3, offline, "".asasin"" : ""Invoice #123456789,"" - ""987654321_11_07_2017_12_34_56.doc""",11,1,1,1.0
+Malspam 2017-09-01 - 'New voice message',6,1,1,1.0
+OSINT - Alert (TA18-074A) Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors,22,1,1,1.0
+OSINT - A journey to Zebrocy land,0,0,0,1.0
+Fake Maersk shipping notice phishing,0,0,0,1.0
+"M2M -  Locky 2017-11-03 : Affid=3, offline, "".asasin"" : ""Scanned image from MX-2600N"" - ""20171103_123456.doc""",10,1,1,1.0
+OSINT - Flokibot Invades PoS: Trouble in Brazil,5,1,1,1.0
+OSINT - Who Ran Leakedsource.com?,0,0,0,1.0
+OSINT - New Downloader for Locky,1,0,1,1.0
+"M2M -  Locky / Trickbot: ""Emailing: Scan0xxx"" from ""Sales""",62,1,1,1.0
+Fake booking.com service website gathering PII including passport,1,0,1,1.0
+OSINT - Lojack Becomes a Double-Agent,0,0,0,1.0
+OSINT - Test Cryptomix Ransomware Variant Released,0,0,0,1.0
+OSINT - Tale of the Two Payloads â€“ TrickBot and Nitol,0,0,0,1.0
+OSINT Shakti Trojan: Document Thief  by Malwarebytes,0,0,0,1.0
+WitchCoven: Exploiting Web Analytics to Ensnare Victims,0,0,0,1.0
+Home & Small Office Wireless Routers Exploited to Attack Gaming Servers,1,0,1,1.0
+OSINT - The DiskWriter or UselessDisk BootLocker May Be A Wiper,0,0,0,1.0
+PETYA Crypto-ransomware Overwrites MBR to Lock Users Out of Their Computers,0,0,0,1.0
+New IoT multiplatform Linux malware: Linux/AirDropBot,6,1,1,1.0
+OSINT - Hades Locker Ransomware Mimics Locky,0,0,0,1.0
+OSINT - Trojanized Adobe Installer used to Install DragonOKâ€™s New Custom Backdoor,0,0,0,1.0
+"M2M -  Locky 2017-11-03 : Affid=3, offline, "".asasin"" : ""12345678.doc""",13,1,1,1.0
+"Malspam 2016-09-27 (.wsf in .zip) - campaign: ""{integer}.zip""",27,1,1,1.0
+"Malspam 2016-07-18 .wsf (campaign: ""bank account report"")",20,1,1,1.0
+OSINT - FreeMilk: A Highly Targeted Spear Phishing Campaign,0,0,0,1.0
+OSINT - Bad Rabbit ransomware,0,0,0,1.0
+OSINT - Alert (TA17-117A) Intrusions Affecting Multiple Victims Across Multiple Sectors,35,1,1,1.0
+"OSINT - APT28 Targets Hospitality Sector, Presents Threat to Travelers",0,0,0,1.0
+"Iranian backed group steps up phishing campaigns against Israel, U.S.",2,1,1,1.0
+"OSINT - One, if by email, and two, if by EK: The Cerbers are coming!",5,1,1,1.0
+OSINT - BlackNurse Denial of Service Attack,0,0,0,1.0
+OSINT - JSSLoader: the shellcode edition,0,0,0,1.0
+Warzone RAT,0,0,0,1.0
+OSINT -  Down but Not Out: A Look Into Recent Exploit Kit Activities,10,1,1,1.0
+"M2M -  Locky 2017-06-21 : Affid=3 : ""Copy of Invoice 87654321"" - ""87654321.zip""",1,0,1,1.0
+CVE-2023-46604 (Apache ActiveMQ) Vulnerability Exploited to Infect Systems With Cryptominers and Rootkits,0,0,0,1.0
+Pandora analysis (Ilnas-04570323.exe) - malicious files included in an email,0,0,0,1.0
+OSINT Enterprises Hit by BARTALEX Macro Malware in Recent Spam Outbreak by Trend Micro,0,0,0,1.0
+OSINT - ROKRAT Reloaded,0,0,0,1.0
+"M2M -  Locky 2017-10-04 : Affid=3, offline, "".ykcol"" : ""Message from 02087654321"" - ""Voice Message.7z""",18,1,1,1.0
+"Malspam 2016-10-03 (.xls) - campaign: ""Invoice-""",8,1,1,1.0
+OSINT - Ruby/Gem Warning! is rest-client 1.6.13 hijacked? #713,1,0,1,1.0
+"M2M -  Locky 2017-11-08 : Affid=3, offline, "".asasin"" : ""Invoice AX1234567"" - ""Invoice-AX1234567.doc""",10,1,1,1.0
+OSINT - Mac Malware of 2017,6,1,1,1.0
+AA21-110A Exploitation of Pulse Connect Secure Vulnerabilities,0,0,0,1.0
+OSINT - Analysis of TeleBotsâ€™ cunning backdoor,0,0,0,1.0
+VMRay Analyzer Report for Sample #252574 (related amf-fr.org),2,1,1,1.0
+Malspam 2017-08-25 'Your Sage subscription invoice is ready',12,1,1,1.0
+OSINT - Earth Lusca Uses KTLVdoor Backdoor for Multiplatform Intrusion,0,0,0,1.0
+OSINT - new sample of operation lagtime TA428,1,0,1,1.0
+Invoice ###### 05/17/2017 from dontreply@random,24,1,1,1.0
+Malspam - Locky - 2016-05-26 (.docm),6,1,1,1.0
+OSINT - PETYA Crypto-ransomware Overwrites MBR to Lock Users Out of Their Computers,0,0,0,1.0
+"Jaff 2017-05-26 : ""Scanned Image from a Xerox WorkCentre"" - ""Scan_0012_123456789.zip""",18,1,1,1.0
+OSINT - New Linux/Rakos threat: devices and servers under SSH scan (again),11,1,1,1.0
+OSINT - Detecting threat actors in recent German industrial attacks with Windows Defender ATP,0,0,0,1.0
+OSINT - Microsoft Disrupts APT28 Hacking Campaign Aimed at US Midterm Elections,0,0,0,1.0
+"Phishing Domains, MALWAREMESSIAGH",0,0,0,1.0
+OSINT - Doctor Web detects several thousand infected Linux devices  Linux.Proxy.10,0,0,0,1.0
+OSINT A Peek Inside an Affiliateâ€™s Malspam Operation: Kovter and Miuref/Boaxxe Infections by PhishMe,16,1,1,1.0
+OSINT - RTF files for Hancitor utilize exploit for CVE-2017-11882,0,0,0,1.0
+OSINT Vawtrak C2 â€“ Pin it by Threat Geek,0,0,0,1.0
+Kryptina RaaS | From Underground Commodity to Open Source Threat,0,0,0,1.0
+"OSINT -  Over 100,000 South Korean Users Affected by BlackMoon Campaign",8,1,1,1.0
+OSINT  Threat Spotlight: Spam Served With a Side of Dridex from Cisco Talos,8,1,1,1.0
+OSINT - Hangul Word Processor and PostScript Abused Via Malicious Attachments,0,0,0,1.0
+"M2M -  Password-protected docs 2017-06-07 : ""John C Doe"" - ""ab1_c23def4lg56hi#78j.docx""",5,1,1,1.0
+I-Soon / Anxun data leak in Github,9,1,1,1.0
+OSINT - FIN7/Carbanak threat actor unleashes Bateleur JScript backdoor,9,1,1,1.0
+Tech Support Scam Synchs Alerts with App Crashes in Windows Event Logs,0,0,0,1.0
+OSINT - Turla PNG Dropper is back,0,0,0,1.0
+In Pursuit of Optical Fibers and Troop Intel: Targeted Attack Distributes PlugX in Russia,2,1,1,1.0
+OSINT - A new era in mobile banking Trojans,0,0,0,1.0
+GlitchPOS: New PoS malware for sale,0,0,0,1.0
+"Malspam 2016-09-14 (.wsf in .zip) - campaign: ""Account report""",2,1,1,1.0
+OSINT - Now Mirai Has DGA Feature Built in,1,0,1,1.0
+"Malspam 2016-09-20 (.hta in .zip) - campaign: ""<no subject>""",19,1,1,1.0
+OSINT - Google Play Apps Infected with Malicious IFrames,0,0,0,1.0
+"OSINT - Dridex Returns To Action For Smaller, More Targeted Attacks",0,0,0,1.0
+"M2M -  Locky 2017-11-07 : Affid=3, offline, "".asasin"" : ""Emailing: AZ123 - 07.11.2017"" - ""AZ123 - 07.11.2017.doc""",8,1,1,1.0
+OSINT - Retefe is back in town,1,0,1,1.0
+TA551 (Shathak) Word docs push Qakbot (Qbot),0,0,0,1.0
+OSINT - Botnet bruteforcing Point Of Sale terminals via Remote Desktop,1,0,1,1.0
+"Real News, Fake Flash: Mac OS X Users Targete",3,1,1,1.0
+OSINT - Letâ€™s play (again) with Predator the thief â€“ Fumik0_'s box,0,0,0,1.0
+Covert Channels and Poor Decisions: The Tale of DNSMessenger,0,0,0,1.0
+Spam 2016-10-16 (mule acquisition) - probably related to Locky resources,4,1,1,1.0
+OSINT - Active ransomware attack uses impersonation and embedded advanced threats,0,0,0,1.0
+Reviewing the spam filters: Malspam pushing Gozi-ISFB,22,1,1,1.0
+OSINT - Prince of Persia â€“ Game Over,6,1,2,1.0
+OSINT - Linux/GafGyt - DVR devices compromised/infected,5,1,1,1.0
+OSINT - Malware Employs PowerShell to Infect Systems,1,0,1,1.0
+OSINT - The first cryptor to exploit Telegram,0,0,0,1.0
+"Malspam 2016-09-05 (.js in .zip) - campaign: ""Credit card receipt""",2,1,1,1.0
+OSINT - An Investigation of Chrysaor Malware on Android,0,0,0,1.0
+OSINT - Qwerty Ransomware Utilizes GnuPG to Encrypt a Victims Files,0,0,0,1.0
+OSINT - Covert Channels and Poor Decisions: The Tale of DNSMessenger,0,0,0,1.0
+OSINT - New Wekby Attacks Use DNS Requests As Command and Control Mechanism,0,0,0,1.0
+OSINT -  Communications of the Bolek Trojan,0,0,0,1.0
+Coyote: A multi-stage banking Trojan abusing the Squirrel installer,0,0,0,1.0
+"OSINT - Lame proxychanger, apparently related to a clickfraud botnet.",1,0,1,1.0
+2017-05-16 Malspam Emailing:#####.pdf.pdf,26,1,1,1.0
+TrickBotâ€™s bag of tricks,33,1,1,1.0
+Duke Cloud Linux - F-Secure,2,1,1,1.0
+OSINT - UBoatRAT Navigates East Asia,0,0,0,1.0
+"M2M -  Jaff 2017-06-02 : ""Invoice INV-1234"" - ""Invoice INV-1234.pdf""",19,1,1,1.0
+IoT malware - Gafgyt.Gen28 (active) - 20190220 - 20190222,2,1,1,1.0
+OSINT - Malicious SVG Files in the Wild,0,0,0,1.0
+OSINT - LOCKY DGA THREAT ACTOR(S),4,0,1,1.0

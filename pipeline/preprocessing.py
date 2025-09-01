@@ -1,0 +1,102 @@
+import re
+import nltk
+import pandas as pd
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+nltk.download('punkt')
+nltk.download('punkt_tab')
+nltk.download('stopwords')
+nltk.download('wordnet')
+
+
+# Initialize stopwords and lemmatizer
+stop_words = set(stopwords.words('english'))
+lemmatizer = WordNetLemmatizer()
+
+
+def preprocess_text(text: str) -> str:
+    """
+    Clean and preprocess a threat description string.
+    """
+    # lowercase
+    text = text.lower()
+    # remove special chars & numbers
+    text = re.sub(r'[^a-z\s]', '', text)
+    # tokenize
+    tokens = nltk.word_tokenize(text)
+    # remove stopwords and short words
+    tokens = [t for t in tokens if t not in stop_words and len(t) > 2]
+    # lemmatize
+    tokens = [lemmatizer.lemmatize(t) for t in tokens]
+    return " ".join(tokens)
+
+
+def apply_tfidf(
+    df: pd.DataFrame,
+    column: str,
+    tfidf=None,
+    train_columns=None,
+    max_features: int = 5000,
+    ngram_range=(1, 2)
+):
+    """
+    Apply TF-IDF vectorization to a text column and return the new dataframe
+    with TF-IDF features concatenated with the rest of the dataframe.
+
+    - If tfidf is None: fit a new vectorizer (training phase).
+    - If tfidf is provided: use transform only (test phase).
+    - train_columns: columns from training set to enforce compatibility.
+    """
+    # Clean text column
+    df["clean_text"] = df[column].apply(preprocess_text)
+
+    # Vectorize
+    if tfidf is None:
+        tfidf = TfidfVectorizer(max_features=max_features, ngram_range=ngram_range)
+        X_tfidf = tfidf.fit_transform(df["clean_text"])
+    else:
+        X_tfidf = tfidf.transform(df["clean_text"])
+
+    # Convert to DataFrame
+    tfidf_df = pd.DataFrame(X_tfidf.toarray(), columns=tfidf.get_feature_names_out(), index=df.index)
+
+    # Drop original text column
+    df_no_text = df.drop(columns=[column,"clean_text"])
+
+    # Concatenate
+    df_final = pd.concat([df_no_text, tfidf_df], axis=1)
+
+    # ✅ Compatibility mode (for test data)
+    if train_columns is not None:
+        # Drop extra cols not in training
+        df_final = df_final.drop(columns=[c for c in df_final.columns if c not in train_columns], errors="ignore")
+        # Add missing cols with 0
+        for c in train_columns:
+            if c not in df_final.columns:
+                df_final[c] = 0
+        # Reorder to match training
+        df_final = df_final[train_columns]
+    print(df_final.head())
+
+    return df_final, tfidf
+
+"""
+if __name__ == "__main__":
+    # Example new data
+    df = pd.DataFrame([
+        {
+            "event_info": "Suspicious login attempt detected",
+            "num_ips": 2,
+            "unique_ip_countries": 1,
+            "has_multiple_ip_ranges": 0
+        }
+    ])
+
+    # Apply pipeline
+    df_final = apply_pipeline(df)
+
+    print("✅ Pipeline applied. Transformed data sample:")
+    print(df_final.head())
+    """
