@@ -1,4 +1,4 @@
-import pandas as pd
+
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.calibration import CalibratedClassifierCV
@@ -29,7 +29,7 @@ def train_model(df, target_column="criticite"):
     rf_calibrated.fit(X_final, y)
 
     # === Step 4: Save model, tfidf, and column order ===
-    save_model(rf_calibrated, "rf_calibrated.joblib")
+    save_model(rf_calibrated, "rf_calibrated_model.joblib")
     save_model(tfidf_pipeline, "tfidf_pipeline.joblib")
     save_model(train_columns, "train_columns.joblib")
 
@@ -83,12 +83,3 @@ def evaluate_model(rf_calibrated, df_test, target_column="criticite"):
     evaluate_at_threshold(chosen_thresh, y_true, y_proba)
     return chosen_thresh
 
-
-"""
-if __name__ == "__main__":
-    df_train = pd.read_csv("data/train.csv")  # replace with your file
-    df_test = pd.read_csv("data/test.csv")    # replace with your file
-    model, pipeline, _, _ = train_model(df_train)
-    evaluate_model(model, df_test, pipeline)
-    print("done")
-"""

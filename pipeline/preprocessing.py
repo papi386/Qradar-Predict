@@ -5,6 +5,8 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+
+nltk.download('omw-1.4')
 nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
@@ -60,7 +62,7 @@ def apply_tfidf(
         X_tfidf = tfidf.transform(df["clean_text"])
 
     # Convert to DataFrame
-    tfidf_df = pd.DataFrame(X_tfidf.toarray(), columns=tfidf.get_feature_names_out(), index=df.index)
+    tfidf_df = pd.DataFrame(X_tfidf.toarray(), columns=tfidf.get_feature_names(), index=df.index)
 
     # Drop original text column
     df_no_text = df.drop(columns=[column,"clean_text"])
@@ -81,22 +83,3 @@ def apply_tfidf(
     print(df_final.head())
 
     return df_final, tfidf
-
-"""
-if __name__ == "__main__":
-    # Example new data
-    df = pd.DataFrame([
-        {
-            "event_info": "Suspicious login attempt detected",
-            "num_ips": 2,
-            "unique_ip_countries": 1,
-            "has_multiple_ip_ranges": 0
-        }
-    ])
-
-    # Apply pipeline
-    df_final = apply_pipeline(df)
-
-    print("✅ Pipeline applied. Transformed data sample:")
-    print(df_final.head())
-    """

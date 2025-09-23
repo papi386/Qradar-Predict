@@ -1,12 +1,17 @@
 import pandas as pd
 from model.save_load import load_model
 from pipeline.preprocessing import apply_tfidf
+import os
 
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # project root
 
-rf_calibrated = load_model("rf_calibrated.joblib")
-tfidf_pipeline = load_model("tfidf_pipeline.joblib")
-train_columns = load_model("train_columns.joblib")
+MODEL_PATH = os.path.join(BASE_DIR, "test", "rf_calibrated_model.joblib")
+PIPELINE_PATH = os.path.join(BASE_DIR, "test", "tfidf_pipeline.joblib")
+COLUMNS_PATH = os.path.join(BASE_DIR, "test", "train_columns.joblib")
 
+rf_calibrated = load_model(MODEL_PATH)
+tfidf_pipeline = load_model(PIPELINE_PATH)
+train_columns = load_model(COLUMNS_PATH)
 
 def predict_new_data(df: pd.DataFrame, threshold: float = 0.5):
     """Preprocess new data and predict"""
